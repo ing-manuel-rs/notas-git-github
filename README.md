@@ -1,3 +1,3 @@
-# Curso de git-github
+# **Curso de git-github**
 
-Curso en español de git y github en notas .md hechas en obsidian
+Curso y notas de Git y Github
